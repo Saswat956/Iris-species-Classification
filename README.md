@@ -16,11 +16,13 @@ Length of the sepals
 Width of the sepals
 Length of the petals
 Width of the petals
+
 Working of the iris_decision_tree_classifier
 
 The program takes data from the load_iris() function available in sklearn module.
 The program then creates a decision tree based on the dataset for classification.
 The user is then asked to enter the four parameters of his sample and prediction about the species of the flower is printed to the user.
+
 Working of the iris_selfmade_KNN
 
 The program takes data from the load_iris() function available in sklearn module.
